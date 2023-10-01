@@ -1,0 +1,76 @@
+.title td{
+    font-weight: 600;
+    border-top: 1px solid rgb(185, 182, 182);
+    border-bottom: 1px solid rgb(185, 182, 182);
+}
+.namerider{
+    font-size: 25px;
+    font-weight: bold;
+}
+td{
+    padding: 2px 8px;
+}
+table{
+    border-collapse: collapse;
+}
+.result{
+    font-style: italic;
+    font-weight: 100;
+}
+.race-description{
+    width: 12%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.race-description-title{
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px 4px;
+}
+.race-description-foot{
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px 4px;
+}
+.description{
+    display: flex;
+    
+}
+.content-header-item1{
+    display: flex;
+}
+.content-header{
+    margin-left: 10px;
+}
+#header{
+    position: relative;
+}
+.content-header-item2{
+    margin: 50px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+.content-header-item3{
+    font-size: 20px;
+    font-weight: bold;
+}
+.main{
+    margin: 0 50px;
+}
+.description-right .item1{
+    position: absolute;
+    right: 20px;
+    top: 80px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.description-right .item2{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    border: 5px solid black;
+    padding: 4px 8px;
+
+}
